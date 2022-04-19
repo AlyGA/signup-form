@@ -10,14 +10,23 @@ The following table shows the progress status of the project.
 
 ## Step 1: Set up and planning
 
-| Implementation                   |   Status    |
-| -------------------------------- | :---------: |
-| Find image for left side         |  Finished   |
-| Create color palette for website |  Finished   |
-| Find font for website use        |  Finished   |
-| Create dummy code for files      |  Finished   |
-| Find LOGO image                  | In-Progress |
+| Implementation                   |  Status  |
+| -------------------------------- | :------: |
+| Find image for left side         | Finished |
+| Create color palette for website | Finished |
+| Find font for website use        | Finished |
+| Create dummy code for files      | Finished |
+| Find LOGO image                  | Finished |
 
 ## Step 2: Design HTML/CSS files
 
-This step will be added once step 1 has been completed
+This step will be added once step 1 has been completed:
+
+| Implementation                                  |   Status   |
+| ----------------------------------------------- | :--------: |
+| Add image to left section                       |  Finished  |
+| Create footer and hyperlink                     |  Finished  |
+| Add Logo and text to left-side                  | Incomplete |
+| Create signup on right-side                     | Incomplete |
+| Add text above signup form for more information | Incomplete |
+| Finish signup form's footer                     | Incomplete |
