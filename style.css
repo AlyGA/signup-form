@@ -24,9 +24,11 @@ body {
 
 .left-side {
   position: relative;
-  border: solid blue;
+  /* border: solid blue; */
   width: 30%;
   height: 100vh;
+  background-size: cover;
+  background-image: url("images/butterflies.jpg");
 }
 
 .right-side {
