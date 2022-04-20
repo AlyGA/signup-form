@@ -4,7 +4,7 @@ This project is a signup form written purely in HTML and CSS. There were no libr
 
 The design idea was taken from The Odin Project, however, all code was written completely from scratch by me.
 
-Image Credit goes to [Karina Vorozheev on splash](https://unsplash.com/@_k_arinn)
+Image Credit goes to [Karina Vorozheev on Unsplash](https://unsplash.com/@_k_arinn)
 
 The following table shows the progress status of the project.
 
