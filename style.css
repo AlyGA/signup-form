@@ -22,7 +22,7 @@ body {
   flex-direction: row;
 }
 
-.left-side {
+#left-side {
   display: flex;
   flex-direction: column;
   width: 30%;
@@ -31,13 +31,54 @@ body {
   background-image: url("images/butterflies.jpg");
 }
 
-.logo {
-  border: solid violet;
+#image-header {
+  position: relative;
   width: 100%;
   height: 80%;
 }
 
-.image-footer {
+#logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.5);
+  top: 30%;
+  width: 100%;
+  height: 20%;
+  color: white;
+}
+
+#logo-image {
+  width: 40%;
+  background-image: url("images/odin-image.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#logo-image > a {
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+}
+
+#logo-text {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+}
+
+#title {
+  position: absolute;
+  left: 10px;
+  font-family: "MedievalSharp", cursive;
+  font-size: 12vh;
+}
+
+#image-footer {
   display: inline-block;
   width: 100%;
   height: 20%;
@@ -46,17 +87,17 @@ body {
   padding-top: 22%;
 }
 
-.image-footer > a {
+#image-footer > a {
   text-decoration: underline;
   color: white;
 }
 
-.image-footer > a:hover {
+#image-footer > a:hover {
   text-decoration: underline;
   color: #4385c7;
 }
 
-.right-side {
+#right-side {
   border: solid red;
   width: 70%;
   height: 100vh;
