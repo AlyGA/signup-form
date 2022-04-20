@@ -26,7 +26,7 @@ This step will be added once step 1 has been completed:
 | ----------------------------------------------- | :--------: |
 | Add image to left section                       |  Finished  |
 | Create footer and hyperlink                     |  Finished  |
-| Add Logo and text to left-side                  | Incomplete |
+| Add Logo and text to left-side                  |  Finished  |
 | Create signup on right-side                     | Incomplete |
 | Add text above signup form for more information | Incomplete |
 | Finish signup form's footer                     | Incomplete |
