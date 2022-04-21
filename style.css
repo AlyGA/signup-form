@@ -126,6 +126,19 @@ body {
   font-size: 3vh;
 }
 
+#signup input {
+  width: 30vh;
+  height: 3.5vh;
+  border-radius: 5px;
+  border: solid 0.5px black;
+}
+
+#signup input:focus {
+  outline: none !important;
+  border: solid 3px #4385c7;
+  box-shadow: 0.1em 0.2em 0.5em #9ea5ac;
+}
+
 .signup1 {
   display: inline-block;
   padding-top: 2vh;
