@@ -22,11 +22,22 @@ The following table shows the progress status of the project.
 
 This step will be added once step 1 has been completed:
 
-| Implementation                                  |   Status   |
-| ----------------------------------------------- | :--------: |
-| Add image to left section                       |  Finished  |
-| Create footer and hyperlink                     |  Finished  |
-| Add Logo and text to left-side                  |  Finished  |
-| Create signup on right-side                     | Incomplete |
-| Add text above signup form for more information | Incomplete |
-| Finish signup form's footer                     | Incomplete |
+| Implementation                                  |  Status  |
+| ----------------------------------------------- | :------: |
+| Add image to left section                       | Finished |
+| Create footer and hyperlink                     | Finished |
+| Add Logo and text to left-side                  | Finished |
+| Create signup on right-side                     | Finished |
+| Add text above signup form for more information | Finished |
+| Finish signup form's footer                     | Finished |
+
+## Step 3: Final Touches
+
+Now that the website outline has been fully created, the final steps are just minor changes to enhance user experience.
+
+| Implementation                                                 |    Status     |
+| -------------------------------------------------------------- | :-----------: |
+| Add special requirements to input including password and email | Not Completed |
+| Create special effect when a user presses a button             | Not Completed |
+| Insert a dummy link when the user presses the "Log in" button  | Not Completed |
+| Fix the shadow box when the input boxes are focused on         | Not Completed |
